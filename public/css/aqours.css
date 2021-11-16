@@ -1,0 +1,352 @@
+.bg-aqours {
+    background-image: url("/image/aqours/bg-aqours.png");
+    background-size: cover;
+}
+
+.rubybefore {
+    background-image: url("/image/aqours/rubybefore.png");
+    background-position: 50% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.rubybefore:hover {
+    background-image: url("/image/aqours/ruby.png");
+    background-position: 47% 0;
+    box-shadow: 0px 0px 10px 4px #ee6da6;
+}
+
+.marubefore {
+    background-image: url("/image/aqours/marubefore.png");
+    background-position: 53% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.marubefore:hover {
+    background-image: url("/image/aqours/maru.png");
+    background-position: 47% 0;
+    box-shadow: 0px 0px 10px 4px #fee202;
+}
+
+.yoshikobefore {
+    background-image: url("/image/aqours/yoshikobefore.png");
+    background-position: 35% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.yoshikobefore:hover {
+    background-image: url("/image/aqours/yoshiko.png");
+    background-position: 40% 0;
+    box-shadow: 0px 0px 10px 4px #9f9f9f;
+}
+
+.diabefore {
+    background-image: url("/image/aqours/diabefore.png");
+    background-position: 47% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.diabefore:hover {
+    background-image: url("/image/aqours/dia.png");
+    background-position: 45% 0;
+    box-shadow: 0px 0px 10px 4px #e70014;
+}
+
+.kananbefore {
+    background-image: url("/image/aqours/kananbefore.png");
+    background-position: 45% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.kananbefore:hover {
+    background-image: url("/image/aqours/kanan.png");
+    background-position: 50% 0;
+    box-shadow: 0px 0px 10px 4px #63c0ad;
+}
+
+.maribefore {
+    background-image: url("/image/aqours/maribefore.png");
+    background-position: 40% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.maribefore:hover {
+    background-image: url("/image/aqours/mari.png");
+    background-position: 43% 0;
+    box-shadow: 0px 0px 10px 4px #6458a4;
+}
+
+.rikobefore {
+    background-image: url("/image/aqours/rikobefore.png");
+    background-position: 30% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.rikobefore:hover {
+    background-image: url("/image/aqours/riko.png");
+    background-position: 60% 0;
+    box-shadow: 0px 0px 10px 4px #f39c95;
+}
+
+.youbefore {
+    background-image: url("/image/aqours/youbefore.png");
+    background-position: 40% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.youbefore:hover {
+    background-image: url("/image/aqours/you.png");
+    background-position: 45% 0;
+    box-shadow: 0px 0px 10px 4px #67aadf;
+}
+
+.chikabefore {
+    background-image: url("/image/aqours/chikabefore.png");
+    background-position: 70% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.chikabefore:hover {
+    background-image: url("/image/aqours/chika.png");
+    background-position: 56% 0;
+    box-shadow: 0px 0px 10px 4px #f28100;
+}
+
+/* ON LG OR ABOVE BREAKPOINT */
+@media screen and (min-width: 768px) {
+    .text-above-img-chika {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #f28100;
+    }
+    
+    .text-above-img-riko {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #f39c95;
+    }
+    
+    .text-above-img-you {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #67aadf;
+    }
+    
+    .text-above-img-ruby {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #ee6da6;
+    }
+
+    .text-above-img-yoshiko {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #9f9f9f;
+    }
+    
+    .text-above-img-maru {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #fee202;
+    }
+    
+    .text-above-img-dia {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #e70014;
+    }
+    
+    .text-above-img-kanan {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #63c0ad;
+    }
+    
+    .text-above-img-mari {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 70px;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #6458a4;
+    }    
+}
+
+/* ON MD BREAKPOINT */
+@media screen and (max-width: 768px) {
+    .text-above-img-ruby {
+        margin-bottom: -3px;
+        margin-left: 15px;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 5px;
+        text-shadow: 5px 0px 0px #ee6da6;
+    }
+
+    .text-above-img-yoshiko {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #9f9f9f;
+    }
+    
+    .text-above-img-maru {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #fee202;
+    }
+
+    .text-above-img-chika {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #f28100;
+    }
+    
+    .text-above-img-riko {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #f39c95;
+    }
+    
+    .text-above-img-you {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #67aadf;
+    }
+    
+    .text-above-img-dia {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #e70014;
+    }
+    
+    .text-above-img-kanan {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #63c0ad;
+    }
+    
+    .text-above-img-mari {
+        margin-bottom: -5px;
+        position: relative;
+        z-index: 9;
+        font-size: 10vw;
+        color: #f7eded;
+        letter-spacing: 10px;
+        text-shadow: 5px 0px 0px #6458a4;
+    }    
+}
+
+.rubyicon {
+    box-shadow: 0px 0px 10px 4px #ee6da6;
+}
+
+.yoshikoicon {
+    box-shadow: 0px 0px 10px 4px #9f9f9f;
+}
+
+.maruicon {
+    box-shadow: 0px 0px 10px 4px #fee202;
+}
+
+.chikaicon {
+    box-shadow: 0px 0px 10px 4px #f28100;
+}
+
+.rikoicon {
+    box-shadow: 0px 0px 10px 4px #f39c95;
+}
+
+.youicon {
+    box-shadow: 0px 0px 10px 4px #67aadf;
+}
+
+.kananicon {
+    box-shadow: 0px 0px 10px 4px #63c0ad;
+}
+
+.diaicon {
+    box-shadow: 0px 0px 10px 4px #e70014;
+}
+
+.mariicon {
+    box-shadow: 0px 0px 10px 4px #6458a4;
+}

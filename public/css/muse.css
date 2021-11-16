@@ -1,0 +1,251 @@
+.honokabefore {
+    background-image: url("/image/muse/honokabefore.png");
+    background-position: 50% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.honokabefore:hover {
+    background-image: url("/image/muse/honoka.png");
+    background-position: 50% 0;
+    box-shadow: 0px 0px 10px 4px #f39801;
+}
+
+.hanayobefore {
+    background-image: url("/image/muse/hanayobefore.png");
+    background-position: 52% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.hanayobefore:hover {
+    background-image: url("/image/muse/hanayo.png");
+    background-position: 54% 0;
+    box-shadow: 0px 0px 10px 4px #23ac3a;
+}
+
+.kotoribefore {
+    background-image: url("/image/muse/kotoribefore.png");
+    background-position: 62% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.kotoribefore:hover {
+    background-image: url("/image/muse/kotori.png");
+    background-position: 42% 0;
+    box-shadow: 0px 0px 10px 4px #abadac;
+}
+
+.umibefore {
+    background-image: url("/image/muse/umibefore.png");
+    background-position: 51% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.umibefore:hover {
+    background-image: url("/image/muse/umi.png");
+    background-position: 50% 0;
+    box-shadow: 0px 0px 10px 4px #2c72b7;
+}
+
+.nozomibefore {
+    background-image: url("/image/muse/nozomibefore.png");
+    background-position: 50% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.nozomibefore:hover {
+    background-image: url("/image/muse/nozomi.png");
+    background-position: 50% 0;
+    box-shadow: 0px 0px 10px 4px #925da3;
+}
+
+.rinbefore {
+    background-image: url("/image/muse/rinbefore.png");
+    background-position: 63% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.rinbefore:hover {
+    background-image: url("/image/muse/rin.png");
+    background-position: 43% 0;
+    box-shadow: 0px 0px 10px 4px #fef102;
+}
+
+.nicobefore {
+    background-image: url("/image/muse/nicobefore.png");
+    background-position: 46% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.nicobefore:hover {
+    background-image: url("/image/muse/nico.png");
+    background-position: 46% 0;
+    box-shadow: 0px 0px 10px 4px #ec6f9b;
+}
+
+.makibefore {
+    background-image: url("/image/muse/makibefore.png");
+    background-position: 48% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.makibefore:hover {
+    background-image: url("/image/muse/maki.png");
+    background-position: 51% 0;
+    box-shadow: 0px 0px 10px 4px #e93421;
+}
+
+.elibefore {
+    background-image: url("/image/muse/elibefore.png");
+    background-position: 50% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.elibefore:hover {
+    background-image: url("/image/muse/eli.png");
+    background-position: 63% 0;
+    box-shadow: 0px 0px 10px 4px #1eb8ec;
+}
+
+.text-above-img-honoka {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #f39801;
+}
+
+.text-above-img-hanayo {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #23ac3a;
+}
+
+.text-above-img-kotori {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #abadac;
+}
+
+.text-above-img-umi {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #2c72b7;
+}
+
+.text-above-img-nozomi {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #925da3;
+}
+
+.text-above-img-rin {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #fef102;
+}
+
+.text-above-img-nico {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #ec6f9b;
+}
+
+.text-above-img-maki {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #e93421;
+}
+
+.text-above-img-eli {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #1eb8ec;
+}
+
+.honokaicon {
+    box-shadow: 0px 0px 10px 4px #f39801;
+}
+
+.hanayoicon {
+    box-shadow: 0px 0px 10px 4px #23ac3a;
+}
+
+.kotoriicon {
+    box-shadow: 0px 0px 10px 4px #abadac;
+}
+
+.umiicon {
+    box-shadow: 0px 0px 10px 4px #2c72b7;
+}
+
+.nozomiicon {
+    box-shadow: 0px 0px 10px 4px #925da3;
+}
+
+.rinicon {
+    box-shadow: 0px 0px 10px 4px #fef102;
+}
+
+.nicoicon {
+    box-shadow: 0px 0px 10px 4px #ec6f9b;
+}
+
+.makiicon {
+    box-shadow: 0px 0px 10px 4px #e93421;
+}
+
+.eliicon {
+    box-shadow: 0px 0px 10px 4px #1eb8ec;
+}

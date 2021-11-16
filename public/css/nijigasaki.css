@@ -1,0 +1,335 @@
+.rinabefore {
+    background-image: url("/image/nijigasaki/rinabefore.png");
+    background-position: 47% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.rinabefore:hover {
+    background-image: url("/image/nijigasaki/rina.png");
+    background-position: 50% 0;
+    box-shadow: 0px 0px 10px 4px #a8aaa9;
+}
+
+.shizukubefore {
+    background-image: url("/image/nijigasaki/shizukubefore.png");
+    background-position: 65% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.shizukubefore:hover {
+    background-image: url("/image/nijigasaki/shizuku.png");
+    background-position: 42% 0;
+    box-shadow: 0px 0px 10px 4px #81c6ef;
+}
+
+.kasumibefore {
+    background-image: url("/image/nijigasaki/kasumibefore.png");
+    background-position: 68% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.kasumibefore:hover {
+    background-image: url("/image/nijigasaki/kasumi.png");
+    background-position: 52% 0;
+    box-shadow: 0px 0px 10px 4px #f7f064;
+}
+
+.shiorikobefore {
+    background-image: url("/image/nijigasaki/shiorikobefore.png");
+    background-position: 55% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.shiorikobefore:hover {
+    background-image: url("/image/nijigasaki/shioriko.png");
+    background-position: 62% 0;
+    box-shadow: 0px 0px 10px 4px #2c9e7e;
+}
+
+.ayumubefore {
+    background-image: url("/image/nijigasaki/ayumubefore.png");
+    background-position: 60% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.ayumubefore:hover {
+    background-image: url("/image/nijigasaki/ayumu.png");
+    background-position: 56% 0;
+    box-shadow: 0px 0px 10px 4px #f0939e;
+}
+
+.setsunabefore {
+    background-image: url("/image/nijigasaki/setsunabefore.png");
+    background-position: 45% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.setsunabefore:hover {
+    background-image: url("/image/nijigasaki/setsuna.png");
+    background-position: 53% 0;
+    box-shadow: 0px 0px 10px 4px #da363f;
+}
+
+.aibefore {
+    background-image: url("/image/nijigasaki/aibefore.png");
+    background-position: 45% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.aibefore:hover {
+    background-image: url("/image/nijigasaki/ai.png");
+    background-position: 45% 0;
+    box-shadow: 0px 0px 10px 4px #eb6001;
+}
+
+.lanzhubefore {
+    background-image: url("/image/nijigasaki/lanzhubefore.png");
+    background-position: 55% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.lanzhubefore:hover {
+    background-image: url("/image/nijigasaki/lanzhu.png");
+    background-position: 50% 0;
+    box-shadow: 0px 0px 10px 4px #f8c8c4;
+}
+
+.karinbefore {
+    background-image: url("/image/nijigasaki/karinbefore.png");
+    background-position: 60% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.karinbefore:hover {
+    background-image: url("/image/nijigasaki/karin.png");
+    background-position: 40% 0;
+    box-shadow: 0px 0px 10px 4px #034099;
+}
+
+.emmabefore {
+    background-image: url("/image/nijigasaki/emmabefore.png");
+    background-position: 45% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.emmabefore:hover {
+    background-image: url("/image/nijigasaki/emma.png");
+    background-position: 53% 0;
+    box-shadow: 0px 0px 10px 4px #6cbd61;
+}
+
+.kanatabefore {
+    background-image: url("/image/nijigasaki/kanatabefore.png");
+    background-position: 35% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.kanatabefore:hover {
+    background-image: url("/image/nijigasaki/kanata.png");
+    background-position: 48% 0;
+    box-shadow: 0px 0px 10px 4px #ba8ec1;
+}
+
+.miabefore {
+    background-image: url("/image/nijigasaki/miabefore.png");
+    background-position: 63% 0;
+    background-size: cover;
+    transition: .5s;
+    height: 85%;
+}
+
+.miabefore:hover {
+    background-image: url("/image/nijigasaki/mia.png");
+    background-position: 45% 0;
+    box-shadow: 0px 0px 10px 4px #d6d5ca;
+}
+
+.text-above-img-rina {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #a8aaa9;
+}
+
+.text-above-img-shizuku {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #81c6ef;
+}
+
+.text-above-img-kasumi {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #f7f064;
+}
+
+.text-above-img-shioriko {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #2c9e7e;
+}
+
+.text-above-img-ayumu {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #f0939e;
+}
+
+.text-above-img-setsuna {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #da363f;
+}
+
+.text-above-img-ai {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #eb6001;
+}
+
+.text-above-img-lanzhu {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #f8c8c4;
+}
+
+.text-above-img-karin {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #034099;
+}
+
+.text-above-img-emma {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #6cbd61;
+}
+
+.text-above-img-kanata {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #ba8ec1;
+}
+
+.text-above-img-mia {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+    text-shadow: 5px 0px 0px #d6d5ca;
+}
+
+.rinaicon {
+    box-shadow: 0px 0px 10px 4px #a8aaa9;
+}
+
+.shizukuicon {
+    box-shadow: 0px 0px 10px 4px #81c6ef;
+}
+
+.kasumiicon {
+    box-shadow: 0px 0px 10px 4px #f7f064;
+}
+
+.shiorikoicon {
+    box-shadow: 0px 0px 10px 4px #2c9e7e;
+}
+
+.ayumuicon {
+    box-shadow: 0px 0px 10px 4px #f0939e;
+}
+
+.setsunaicon {
+    box-shadow: 0px 0px 10px 4px #da363f;
+}
+
+.aiicon {
+    box-shadow: 0px 0px 10px 4px #eb6001;
+}
+
+.lanzhuicon {
+    box-shadow: 0px 0px 10px 4px #f8c8c4;
+}
+
+.karinicon {
+    box-shadow: 0px 0px 10px 4px #034099;
+}
+
+.emmaicon {
+    box-shadow: 0px 0px 10px 4px #6cbd61;
+}
+
+.kanataicon {
+    box-shadow: 0px 0px 10px 4px #ba8ec1;
+}
+
+.miaicon {
+    box-shadow: 0px 0px 10px 4px #d6d5ca;
+}

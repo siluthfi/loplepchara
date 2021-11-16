@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Indie+Flower&display=swap');
+
+body {
+    font-family: 'Sora', sans-serif;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #ebebad;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #ff9eb5;
+}
+
+.home-hero-img {
+    background-image: url('/image/homeheroimage.png');
+    background-position: 50% 25%;
+}
+
+.starry-bg {
+    background-image: url('/image/beach.png');
+    background-size: cover;
+}
+
+.default-font {
+    font-family: sans-serif;
+}
+
+.ff-alone {
+    font-family: 'Anton', sans-serif;
+}
+
+.self-font {
+    font-family: 'Indie Flower', cursive;
+}
+
+@media screen and (min-width: 768px){
+    .hero-text {
+        font-size: 170px;
+        font-weight: bold;
+        color: white;
+        /* text-shadow: 3px 3px 5px #CE5937; */
+        text-shadow: 3px 3px 5px #CE5937;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .hero-text {
+        font-size: 130px;
+        font-weight: bold;
+        color: white;
+        /* text-shadow: 3px 3px 5px #CE5937; */
+        text-shadow: 3px 3px 5px #CE5937;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .hero-text {
+        font-size: 17vw;
+        font-weight: bold;
+        color: white;
+        /* text-shadow: 3px 3px 5px #CE5937; */
+        text-shadow: 3px 3px 5px #CE5937;
+    }
+}
+
+
+.year-text {
+    color: black; 
+    text-shadow: 3px 3px 5px white;
+    transition: .3s;
+}
+
+.year-text:hover {
+    color: white;
+    text-shadow: 3px 3px 5px black;
+}
+
+.text-above-img {
+    margin-bottom: -5px;
+    position: relative;
+    z-index: 9;
+    font-size: 70px;
+    color: #f7eded;
+    letter-spacing: 10px;
+}
+
+.bg-pink {
+    background-color: #ff6f91;
+}
+
+.bg-lightbrown {
+    background-color: #F5E8C7;
+}
+
+.height-75 {
+    height: 75%;
+}
+
+.muse {
+    background-image: url("/image/muse/halloweenrin.png");
+    background-position: 55% 0;
+    background-size: cover;
+}
+
+.aqours {
+    background-image: url("/image/aqours/halloweenriko.png");
+    background-position: 70% 0;
+    background-size: cover;
+}
+
+.nijigasaki {
+    background-image: url("/image/nijigasaki/halloweenshiorikobefore.png");
+    background-position: 55% 0;
+    background-size: cover;
+    transition: 1s;
+}
+
+.nijigasaki:hover {
+    transition: 1s;
+    background-image: url("/image/nijigasaki/halloweenshioriko.png");
+    background-position: 60% 0;
+    background-size: cover;
+    box-shadow: 0 0 10px 5px red;
+    z-index: 9;
+}
+
+.foot {
+    background-color: #ff6f91;
+}
